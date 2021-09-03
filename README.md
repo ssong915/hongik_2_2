@@ -1,8 +1,4 @@
 # hongik_2_2
-
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ssong_.915/)](https://www.instagram.com/zuzu_zzing/) 
-[![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/yysk_915)
-
 <br>
 
 ## Data Science 
